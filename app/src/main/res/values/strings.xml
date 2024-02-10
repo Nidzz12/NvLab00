@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NvLab00</string>
+    <string name="hello_message">Hello World</string>
+    <string name="button_message">I\'m button</string>
+
+</resources>
